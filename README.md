@@ -1,5 +1,5 @@
 # Detecting Anomalies in the Crypto Market
-This was created as a third semester Discrete Mathematics (CS201) Course Project by Aarsh Desai, Priyesh Gupta, N.V.J.K Kartik and Vivaan Sharma. The project aims to identify and classify the different types of scams prevalent in the cryptocurrency market as of Dec 2022.
+This was created as a third semester Discrete Mathematics (CS201) Course Project by Aarsh Desai, Priyesh Gupta, N.V.J.K Kartik, Vinayak and Vivaan Sharma. The project aims to identify and classify the different types of scams prevalent in the cryptocurrency market as of Dec 2022.
 
 Our project consists of mainly two ideas:
 
